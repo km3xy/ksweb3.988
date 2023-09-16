@@ -21,6 +21,12 @@ composer --version
 
 
 
+//查看全局配置
+
+config -gl
+
+
+
 
 更多，参考
 
