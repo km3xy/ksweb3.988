@@ -1,0 +1,105 @@
+关键词搜索php命令
+
+php命令行下的常用命令总结
+
+
+1. php -m  显示编译到内核下的模块
+2. php -v    显示 php版本号
+3. php --ini    显示配置文件名
+4. php -h     显示有哪些命令行命令
+5. php --info    查看类/函数/扩展信息,和web服务器上php 使用
+
+
+ksweb  控制台里  使用php命令如下
+
+
+   ksweb     控制台  php命令行下的常用命令总结
+
+1.  -m  显示编译到内核下的模块
+
+到PHP
+
+
+2.  -v    显示 php版本号
+
+到PHP
+
+3. --ini   显示配置文件名
+
+到PHP
+
+
+4. -h    显示有哪些命令行命令
+
+-h   查看帮助
+
+－h
+
+到PHP
+
+5.  --info   查看类/函数/扩展信息,和web服务器上php 使用
+
+
+到PHP
+
+-m
+
+所有的-       
+
+-h   查看  所有    其他命令
+
+
+-h
+
+到php
+
+
+KSWEB: ---进程开始---
+
+Usage: libph-8-2-6-api23.so [options] [-f] [--] [args...]
+libph-8-2-6-api23.so [options] -r [--] [args...]
+libph-8-2-6-api23.so [options] [-B ] -R [-E ] [--] [args...]
+libph-8-2-6-api23.so [options] [-B ] -F [-E ] [--] [args...]
+libph-8-2-6-api23.so [options] -S : [-t docroot] [router]
+libph-8-2-6-api23.so [options] -- [args...]
+libph-8-2-6-api23.so [options] -a
+
+-a Run as interactive shell (requires readline extension)
+-c | Look for php.ini file in this directory
+-n No configuration (ini) files will be used
+-d foo[=bar] Define INI entry foo with value 'bar'
+-e Generate extended information for debugger/profiler
+-f Parse and execute .
+-h This help
+-i PHP information
+-l Syntax check only (lint)
+-m Show compiled in modules
+-r Run PHP without using script tags 
+-B Run PHP before processing input lines
+-R Run PHP for every input line
+-F Parse and execute for every input line
+-E Run PHP after processing all input lines
+-H Hide any passed arguments from external tools.
+-S : Run with built-in web server.
+-t Specify document root for built-in web server.
+-s Output HTML syntax highlighted source.
+-v Version number
+-w Output source with stripped comments and whitespace.
+-z Load Zend extension .
+
+args... Arguments passed to script. Use -- args when first argument
+starts with - or script is read from stdin
+
+--ini Show configuration file names
+
+--rf Show information about function .
+--rc Show information about class .
+--re Show information about extension .
+--rz Show information about Zend extension .
+--ri Show configuration for extension .
+
+
+KSWEB: ---进程结束---
+
+
+ksweb  控制台里  使用php命令.md
