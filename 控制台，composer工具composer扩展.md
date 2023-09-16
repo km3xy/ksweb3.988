@@ -64,6 +64,30 @@ KSWEB: ---进程结束
      show     
 
 
-//列出安装包信息
 
-show
+学习composer去下面学习
+
+https://packagist.org/
+
+英文官方//软件包仓库
+
+http://packagist.p2hp.com/
+
+中文网页//软件包仓库
+
+
+学习composer去下面学习
+
+http://packagist.p2hp.com/
+
+中文网页//软件包仓库
+
+
+
+
+
+
+
+
+
+
