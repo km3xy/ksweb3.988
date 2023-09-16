@@ -1,4 +1,22 @@
 
+ksweb3.988 php扩展 控制台 Composer & php 控制台 composer 安装与配置
+
+
+
+进入ksweb3.988后,  php选项  下面找到  composer &  php  控制台
+
+
+输入命令即可
+
+
+到 COMPOSER    
+
+
+//composer已经安装好，无需再安装直接用
+
+
+
+
 
 #   安装 monolog
 
